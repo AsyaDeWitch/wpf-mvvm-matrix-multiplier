@@ -1,0 +1,15 @@
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\bin\Debug\MatrixMultiplier.MVVM.exe.config
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\bin\Debug\MatrixMultiplier.MVVM.exe
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\bin\Debug\MatrixMultiplier.MVVM.pdb
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\MatrixMultiplier.MVVM.csproj.AssemblyReference.cache
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\Views\MainWindow.g.cs
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\App.g.cs
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\MatrixMultiplier.MVVM_MarkupCompile.cache
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\MatrixMultiplier.MVVM_MarkupCompile.lref
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\Views\MainWindow.baml
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\MatrixMultiplier.MVVM.g.resources
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\MatrixMultiplier.MVVM.Properties.Resources.resources
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\MatrixMultiplier.MVVM.csproj.GenerateResource.cache
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\MatrixMultiplier.MVVM.csproj.CoreCompileInputs.cache
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\MatrixMultiplier.MVVM.exe
+E:\C#_Cheks\MatrixMultiplier.MVVM\MatrixMultiplier.MVVM\obj\Debug\MatrixMultiplier.MVVM.pdb
